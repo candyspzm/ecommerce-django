@@ -1,27 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="303d86b5-5f45-4b38-a4a6-6c3a58f2f1d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/online_store_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myshop/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myshop/myshop/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myshop/myshop/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myshop/myshop/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myshop/myshop/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myshop/myshop/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myshop/shop/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myshop/shop/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myshop/shop/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myshop/shop/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myshop/shop/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myshop/shop/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myshop/shop/views.py" afterDir="false" />
+    <list default="true" id="303d86b5-5f45-4b38-a4a6-6c3a58f2f1d6" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/myshop/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myshop/shop/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/myshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/myshop/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/shop/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/shop/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/shop/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/shop/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,21 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "candyspzm"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;candyspzm&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/candyspzm/ecommerce-django.git",
-    "accountId": "c44f7267-cfd6-4ede-9f7e-83630576b5e9"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/candyspzm/ecommerce-django.git&quot;,
+    &quot;accountId&quot;: &quot;c44f7267-cfd6-4ede-9f7e-83630576b5e9&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2kt7OhioMeyXxNqYbYNfWyKkfxj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -54,13 +45,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,9 +68,20 @@
       <option name="presentableId" value="Default" />
       <updated>1724090988363</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1724091492374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724091492374</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>
